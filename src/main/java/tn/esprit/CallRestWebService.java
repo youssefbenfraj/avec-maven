@@ -18,10 +18,6 @@ import org.json.JSONObject;
 
 public class CallRestWebService {
 
-	// Première modification 
-	// Deuxième modification  
-	// Troisème modification  
-	// 4ème modification  
 	
 	public static final String endpoint = "http://ip-api.com/json";
 	//public static final String endpoint = "https://httpbin.org/get";
